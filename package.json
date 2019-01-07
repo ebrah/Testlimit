@@ -1,0 +1,23 @@
+{
+  "name": "testlimit",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "animate.css": "^3.7.0",
+    "aos": "^3.0.0-beta.6",
+    "google-maps-react": "^2.0.2",
+    "jquery": "^3.3.1",
+    "materialize-css": "^1.0.0",
+    "next": "^7.0.2",
+    "react": "^16.7.0-alpha.2",
+    "react-dom": "^16.7.0-alpha.2",
+    "typeface-lato": "^0.0.54",
+    "wow.js": "^1.2.2"
+  },
+  "scripts": {
+    "dev": "next",
+    "start": "next start",
+    "build": "next build"
+  }
+}
